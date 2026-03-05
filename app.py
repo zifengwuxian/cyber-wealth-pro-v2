@@ -19,7 +19,6 @@ st.markdown("""
 <style>
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
     .stApp { background-color: #0E1117; }
     
     /* 核心卡片样式 */
